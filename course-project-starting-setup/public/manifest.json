@@ -1,0 +1,22 @@
+/*
+Manifest Properties
+JSON file
+
+"name":
+"short_name":
+"start_url":
+"scope": .. Which pages are included in "PWA Experience"
+"display": "standalone" .. Should it look like a standalone app?
+"background_color":
+"theme_color": .. e.g. on top bar in task switcher
+"description":
+"dir": "ltr" .. Read diretion of my app
+"lang": .. Main language of app
+"orientation": "portrait-primary": .. Set default orientation
+"icons":
+"related_applications":
+ */
+ 
+{
+
+}
